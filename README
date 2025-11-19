@@ -1,0 +1,9 @@
+# Moongazer
+
+Moongazer is a front end view for moonosc, a moon phase tracking service. 
+
+Moongazer does one thing: it displays the current phase of the moon, as provided by moonosc. 
+
+### Running Moongazer
+
+You can run moongazer from the directory locally (where it will bind to localhost:PORT, default 3002) and direct it to a local instance of moonosc. However, it is designed to be deployed along with moonosc. 
